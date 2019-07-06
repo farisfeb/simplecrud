@@ -5,7 +5,7 @@
 
 ## Description
 
-[Simplecrud](https://github.com/farisfebrianto/simplecrud) is basic PHP with MariaDB create read update and delete operations. Even this code is simple, can you code in Windows notepad from scratch without internet connection?. Actually this happen to me on job test but I can't do it! LOL..
+[Simplecrud](https://github.com/farisfebrianto/simplecrud) is basic PHP with MariaDB create, read, update, and delete operations. Even this code is simple, can you code in Windows notepad from scratch without internet connection?. Actually this happen to me on job test but I can't do it! LOL..
 
 ## Screenshot
 
